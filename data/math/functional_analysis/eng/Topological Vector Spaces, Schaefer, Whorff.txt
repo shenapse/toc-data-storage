@@ -1,0 +1,87 @@
+Table of Contents
+Preface to the Second Edition v
+Preface vi
+Prerequisites
+A. Sets and Order I
+B. General Topology 4
+C. Linear Algebra 9
+I. TOPOLOGICAL VECTOR SPACES
+Introduction 12
+1 Vector Space Topologies 12
+2. Product Spaces, Subspaces, Direct Sums, Quotient Spaces 19
+3 Topological Vector Spaces of Finite Dimension 21
+4 Linear Manifolds and Hyperplanes 24
+5 Bounded Sets 25
+6 Metrizability 28
+7 Complexification 31
+Exercises 33
+IW. LOCALLY CONVEX TOPOLOGICAL VECTOR SPACES
+Introduction 36
+1 Convex Sets and Semi-Norms 37
+2. Normed and Normable Spaces 40
+3 The Hahn-Banach Theorem 45
+TABLE OF CONTENTS ix
+4 Locally Convex Spaces 47
+5 Projective Topologies 51
+6 Inductive Topologies 54
+7 Barreled Spaces 60
+8 Bornological Spaces 61
+9 Separation of Convex Sets 63
+10 Compact Convex Sets 66
+Exercises 68
+Wl. LINEAR MAPPINGS Introduction 73
+1 Continuous Linear Maps and Topological Homomorphisms 74
+2. Banach’s Homomorphism Theorem 76
+3 Spaces of Linear Mappings 79
+4 Equicontinuity. The Principle of Uniform Boundedness and the Banach-Steinhaus Theorem 82
+5 Bilinear Mappings 87
+6 Topological Tensor Products 92
+7 Nuclear Mappings and Spaces 97
+8 Examples of Nuclear Spaces 106
+9 The Approximation Property. Compact Maps 108
+Exercises 115
+IV. DUALITY
+Introduction 122
+1 Dual Systems and Weak Topologies 123
+2 Elementary Properties of Adjoint Maps 128
+3 Locally Convex Topologies Consistent with a Given Duality. The Mackey-Arens Theorem 130
+4 Duality of Projective and Inductive Topologies 133
+5 Strong Dual of a Locally Convex Space. Bidual Reflexive Spaces 140
+6 Dual Characterization of Completeness. Metrizable Spaces Theorems of Grothendieck, Banach-Dieudonné, and
+Krein-Smulian 147
+7 Adijoints of Closed Linear Mappings 155
+8 The General Open Mapping and Closed Graph Theorems 161
+9 Tensor Products and Nuclear Spaces 167
+10 Nuclear Spaces and Absolute Summability 176
+11 Weak Compactness. Theorems of Eberlein and Krein 185
+Exercises 190
+V. ORDER STRUCTURES
+Introduction 203
+1 Ordered Vector Spaces over the Real Field 204
+2 Ordered Vector Spaces over the Complex Field 214
+3 Duality of Convex Cones 215
+4 Ordered Topological Vector Spaces 222
+5 Positive Linear Forms and Mappings 225
+6 The Order Topology 230
+7 Topological Vector Lattices 234
+8 Continuous Functions on a Compact Space. Theorems of Stone-Weierstrass and Kakutani 242
+Exercises 250
+VI. C’--AND W*-ALGEBRAS
+Introduction 258
+1 Preliminaries 259
+2 C*-Algebras. The Gelfand Theorem 260
+3 Order Structure of a C*-Algebra 267
+4 Positive Linear Forms. Representations 270
+5 Projections and Extreme Points 274
+6 W*-Algebras 277
+7 Von Neumann Algebras. Kaplansky’s Density Theorem 287
+8 Projections and Types of W*-Algebras 292
+Exercises 299
+Appendix. SPECTRAL PROPERTIES OF POSITIVE OPERATORS
+Introduction 306
+1 Elementary Properties of the Resolvent 307
+2. Pringsheim’s Theorem and Its Consequences 309
+3. The Peripheral Point Spectrum 316
+Index of Symbols 325
+Bibliography 330
+Index 339

@@ -1,0 +1,126 @@
+Contents
+Preface
+0. Introduction: Notation, Elementary Results 1
+1 Some Facts About Lower and Upper Bounds 1
+2 The Set of Extended Real Numbers 5
+3 Linear and Bilinear Algebra 6
+4 Differentiation in a Euclidean Space 9
+5 Set-Valued Analysis 12
+6 Recalls on Convex Functions of the Real Variable 14
+EXercises 16
+A. Convex Sets 19
+1 Generalities 19
+1.1 Definition and First Examples 19
+1.2. Convexity-Preserving Operations on Sets 22
+1.3. Convex Combinations and Convex Hulls 26
+1.4 Closed Convex Sets and Hulls 31
+2 Convex Sets Attached to a Convex Set 33
+2.1 The Relative Interior 33
+2.2 The Asymptotic Cone 39
+2.3 Extreme Points 4
+24 Exposed Faces 43
+3 Projection onto Closed Convex Sets 46
+3.1 The Projection Operator 46
+3.2 Projection onto a Closed Convex Cone 49
+4 Separation and Applications
+41 Separation Between Convex Sets 51
+4.2 First Consequences of the Separation Properties 54
+— Existence of Supporting Hyperplanes 54
+— Outer Description of Closed Convex Sets 55
+— Proof of Minkowski’s Theorem 57
+— Bipolar of a Convex Cone
+4.3. The Lemma of Minkowski-Farkas 58
+5 Conical Approximations of Convex Sets 62
+5.1 Convenient Definitions of Tangent Cones 62
+5.2 The Tangent and Normal Cones to a Convex Set 65
+5.3 Some Properties of Tangent and Normal Cones 68
+EX€ICIS€S 10
+B. Convex Functions
+1 Basic Definitions and Examples 73
+1.1 The Definitions of a Convex Function 73
+1.2 Special Convex Functions: Affinity and Closedness 76
+—Linear and Affine Functions 77
+— Closed Convex Functions 78
+— Outer Construction of Closed Convex Functions 80
+13 First Examples 82
+2 Functional Operations Preserving Convexity 87
+2.1 Operations Preserving Closedness 87
+2.2 Dilations and Perspectives of a Function 89
+2.3. Infimal Convolution 92
+2.4 Image of a Function Under a Linear Mapping 96
+2.5 Convex Hull and Closed Convex Hull of a Function 98
+3 Local and Global Behaviour of a Convex Function 102
+3.1 Continuity Properties 102
+3.2 Behaviour at Infinity 106
+4 First- and Second-Order Differentiation 110
+4.1 Differentiable Convex Functions 110
+4.2 Nondifferentiable Convex Functions 114
+4.3 Second-Order Differentiation
+Exercises
+C. Sublinearity and Support Functions 121
+1 Sublinear Functions 123
+11 Definitions and First Properties 123
+1.2 Some Examples 127
+1.3. The Convex Cone of All Closed Sublinear Functions 131
+2 The Support Function of a Nonempty Set 134
+2.1 Definitions, Interpretations 134
+2.2 Basic Properties 136
+2.3 Examples 140
+3 Correspondence Between Convex Sets and Sublinear Functions 143
+3.1 The Fundamental Correspondence 143
+3.2 Example: Norms and Their Duals, Polarity 146
+3.3. Calculus with Support Functions 151
+3.4 Example: Support Functions of Closed Convex Polyhedra 158
+Exercises 2.0... 161
+D. Subdifferentials of Finite Convex Functions 163
+1 The Subdifferential: Definitions and Interpretations 164
+11 First Definition: Directional Derivatives 164
+1.2 Second Definition: Minorization by Affine Functions 167
+1.3. Geometric Constructions and Interpretations 169
+2 Local Properties of the Subdifferential 173
+2.1 First-Order Developments 173
+2.2 Minimality Conditions
+2.3. Mean-Value Theorems 178
+3. First Examples 180
+4 — Calculus Rules with Subdifferentials 183
+4.1 Positive Combinations of Functions 183
+4.2 Pre-Composition with an Affine Mapping 184
+43 Post-Composition with an Increasing Convex Function of Several Variables 185
+44 Supremum of Convex Functions 188
+45 Image of a Function Under a Linear Mapping 191
+5S Further Examples 194
+5.1 Largest Eigenvalue of a Symmetric Matrix 194
+5.2 Nested Optimization 196
+5.3 Best Approximation of a Continuous Function on a Com- pact Interval 198
+6 The Subdifferential as a Multifunction 199
+6.1 Monotonicity Properties of the Subdifferential 199
+6.2 Continuity Properties of the Subdifferential 201
+6.3 Subdifferentials and Limits of Subgradients 204
+EXercises 2.0.0.0... cec 205
+E. Conjugacy in Convex Analysis 209
+1 The Convex Conjugate of a Function 211
+11 Definition and First Examples 211
+1.2 Interpretations 214
+1.3 First Properties 216
+— Elementary Calculus Rules 216
+— The Biconjugate of a Function 218
+—Conjugacy and Coercivity 219
+1.4 Subdifferentials of Extended-Valued Functions 220
+2 Calculus Rules on the Conjugacy Operation 222
+2.1 Image of a Function Under a Linear Mapping 222
+2.2 Pre-Composition with an Affine Mapping 224
+2.3. Sum of Two Functions 227
+2.4 — Infima and Suprema 229
+2.5 Post-Composition with an Increasing Convex Function 231
+3 Various Examples 233
+3.1 The Cramer Transformation 234
+3.2. The Conjugate of Convex Partially Quadratic Functions 234
+3.3 Polyhedral Functions 235
+4 Differentiability of a Conjugate Function 237
+Al First-Order Differentiability 238
+4.2 Lipschitz Continuity of the Gradient Mapping 240
+EXEMcCiSES
+Bibliographical Comments 245
+The Founding Fathers of the Discipline 249
+References 251
+Index 253

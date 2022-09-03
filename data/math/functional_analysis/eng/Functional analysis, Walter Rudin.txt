@@ -1,0 +1,110 @@
+Preface xiii
+Part
+1 Topological Vector Spaces 3
+Introduction 3
+Separation properties 10
+Linear mappings 14
+Finite-dimensional s paces 16
+Metrization . 18
+Boundedness and continuity 23
+Seminorms and local convexity 25
+Quotient spaces 30
+Examples 33
+Exercises 38
+2 Completeness 42
+Baire category 42
+The Banach-Steinhaus theorem 43
+The open mapping theorem 47
+The closed graph theorem 50
+Bilinear mappings 52
+Exercises 53
+3 Convexity 56
+The Hahn-Banach theorems 56
+Weak topologies 62
+Compact convex sets 68
+Vector-valued integration 77
+Holomorphic functions 82
+Exercises 85
+4 Duality in Banach Spaces 92
+The normed dual of a normed space 92
+Adjoints 97
+Compact operators 103
+Exercises 111
+5 Some Applications 116
+A continuity theorem 116
+Closed subspaces of I?-spaces 117
+The range of a vector-valued measure 120
+A generalized Stone- Weierstrass theorem 121
+Two interpolation theorems 124
+Kakutani’s fixed point theorem 126
+Haar measure on compact groups 128
+Uncomplemented subspaces 132
+Sums of Poisson kernels 138
+Two more fixed point theorems 139
+Exercises 144
+Part
+6 Test Functions and Distributions 149
+Introduction 149
+Test function spaces 151
+Calculus with distributions 157
+Localization 162
+Supports of distributions 164
+Distributions as derivatives 167
+Convolutions 170
+Exercises 177
+7 Fourier Transforms 182
+Basic properties 182
+Tempered distributions 189
+Paley-Wiener theorems 196
+Sobolev’s lemma 202
+Exercises 204
+8 Applications to Differential Equations 210
+Fundamental solutions 210
+Elliptic equations 215
+Exercises 222
+9 Tauberian Theory 226
+Wiener’s theorem 226
+The prime number theorem 230
+The renewal equation 236
+Exercises 239
+Part
+10 Banach Algebras 245
+Introduction 245
+Complex homomorphisms 249
+Basic properties of spectra 252
+Symbolic calculus 258
+The group of invertible elements 267
+Lomonosov’s invariant subspace theorem 269
+Exercises 271
+11 Commutative Banach Algebras 275
+Ideals and homomorphisms 275
+Gelfand transforms 280
+Involutions 287
+Applications to noncommutative algebras 292
+Positive functionals 296
+Exercises 301
+12 Bounded Operators on a Hilbert Space 306
+Basic facts 306
+Bounded operators 309
+A commutativity theorem 315
+Resolutions of the identity 316
+The spectral theorem 321
+Eigenvalues of normal operators 327
+Positive operators and square roots 330
+The group of invertible operators 333
+A characterization of B*-algebras 336
+An ergodic theorem 339
+Exercises 341
+13. Unbounded Operators 347
+Introduction 347
+Graphs and symmetric operators 351
+The Cayley transform 356
+Resolutions of the identity 360
+The spectral theorem 368
+Semigroups of operators 375
+Exercises 385
+Appendix A Compactness and Continuity 391
+Appendix B_ Notes and Comments 397
+Bibliography 412
+List of Special Symbols 414
+Index 417

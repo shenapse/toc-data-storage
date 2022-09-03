@@ -1,0 +1,326 @@
+Foreword xvii
+1. Linear Spaces 1
+Axioms for linear spaces—Infinite-dimensional examples—
+Subspace, linear span—Quotient space—Isomorphism—Convex
+sets—Extreme subsets
+2. Linear Maps 8
+2.1 Algebra of linear maps 8
+Axioms for linear maps—Sums and composites—Invertible
+linear maps—Nullspace and range—Invariant subspaces
+2.2. Index of a linear map 12
+Degenerate maps—Pseudoinverse—Index—Product formula for
+the index—Stability of the index
+3. The Hahn-Banach Theorem 19
+3.1 The extension theorem 19
+Positive homogeneous, subadditive functionals—Extension of linear functionals—Gauge functions of convex sets
+3.2 Geometric Hahn-Banach theorem 21
+The hyperplane separation theorem
+3.3 Extensions of the Hahn-Banach theorem 24
+The Agnew-Morse theorem—The Bohnenblust-Sobczyk-Soukhomlinov theorem
+4. Applications of the Hahn-Banach theorem 29
+4.1 Extension of positive linear functionals 29
+4.2 Banach limits 31
+4.3. Finitely additive invariant set functions 33
+Historical note, 34
+5. Normed Linear Spaces 36
+5.1 Norms, 36
+Norms for quotient spaces—Complete normed linear spaces—
+The spaces C, B—L? spaces and Hlder’s inequality—Sobolev spaces, embedding theorems—Separable spaces
+5.2 Noncompactness of the unit ball 43
+Uniform convexity—The Mazur-Ulam theorem on isometries
+5.3 Isometries, 47
+6. Hilbert Space 52
+6.1 Scalar product 52
+Schwarz inequality—Parallelogram identity—Completeness
+closure—é?, L 2
+6.2 Closest point in a closed convex subset 54
+Orthogonal complement of a subspace—Orthogonal
+decomposition
+6.3 Linear functionals 56
+The Riesz-Frechet representation theorem—Lax-Milgram lemma
+64 Linear span 58
+Orthogonal projection—Orthonormal bases, Gram-Schmidt
+process—Isometries of a Hilbert space
+7. Applications of Hilbert Space Results 63
+7.1 Radon-Nikodym theorem 63
+7.2 Dirichlet’s problem 65
+Use of the Riesz-Frechet theorem—Use of the Lax-Milgram theorem—Use of orthogonal decomposition
+8. Duals of Normed Linear Spaces 72
+8.1 Bounded linear functionals 72
+Dual space
+8.2 Extension of bounded linear functionals 74
+Dual characterization of norm—Dual characterization of distance from a subspace—Dual characterization of the closed
+distance from a subspace—Dual characterization of the closed linear span of a set
+8.3 Reflexive spaces 78
+Reflexivity of L?, 1 < p < oo—Separable spaces—Separability
+of the dual—Dual of C(Q), Q compact—Reflexivity of subspaces
+8.4 Support function of a set 83
+Dual characterization of convex hull—Dual characterization of distance from a closed, convex set
+9. Applications of Duality 87
+9.1 Completeness of weighted powers 87
+9.2 The Miintz approximation theorem 88
+9.3. Runge’s theorem 91
+9.4 Dual variational problems in function theory 91
+9.5 Existence of Green’s function 94
+10. Weak Convergence 99
+10.1 Uniform boundedness of weakly convergent sequences 101
+Principle of uniform boundedness—Weakly sequentially closed convex sets
+10.2 Weak sequential compactness 104
+Compactness of unit ball in reflexive space
+10.3 Weak* convergence 105
+Helly’s theorem
+11. Applications of Weak Convergence 108
+11.1 Approximation of the 5 function by continuous functions 108
+Toeplitz’s theorem on summability
+11.2 Divergence of Fourier series 109
+11.3. Approximate quadrature 110
+11.4 Weak and strong analyticity of vector-valued functions 111
+11.5 Existence of solutions of partial differential equations 112
+Galerkin’s method
+11.6 The representation of analytic functions with positive real part 115
+Herglotz-Riesz theorem
+12. The Weak and Weak* Topologies 118
+Comparison with weak sequential topology—Closed convex sets in the weak topology—Weak compactness—Alaoglu’s theorem
+13. Locally Convex Topologies and the Krein-Milman Theorem 122
+13.1 Separation of points by linear functionals 123
+13.2 The Krein-Milman theorem 124
+13.3. The Stone-Weierstrass theorem 126
+13.4 Choquet’s theorem 128
+14. Examples of Convex Sets and Their Extreme Points 133
+14.1 Positive functionals 133
+14.2 Convex functions 135
+14.3. Completely monotone functions 137
+14.4 Theorems of Carathéodory and Bochner 141
+14.5. A theorem of Krein 147
+14.6 Positive harmonic functions 148
+14.7. The Hamburger moment problem 150
+14.8 G. Birkhoff’s conjecture 151
+14.9 De Finetti’s theorem 156
+14.10 Measure-preserving mappings 157
+Historical note, 159
+15. Bounded Linear Maps 160
+15.1 Boundedness and continuity 160
+Norm of a bounded linear map—Transpose
+15.2 Strong and weak topologies 165
+Strong and weak sequential convergence
+15.3 Principle of uniform boundedness 166
+15.4 Composition of bounded maps 167
+15.5 The open mapping principle 168
+Closed graph theorem
+Historical note, 172
+16. Examples of Bounded Linear Maps 173
+16.1 Boundedness of integral operators 173
+Integral operators of Hilbert-Schmidt type—Integral operators of Holmgren type
+16.2. The convexity theorem of Marcel Riesz 177
+16.3 Examples of bounded integral operators 180
+The Fourier transform, Parseval’s theorem and Hausdorff- Young inequality—The Hilbert transform—The Laplace transform—
+The Hilbert-Hankel transform
+16.4 Solution operators for hyperbolic equations 186
+16.5 Solution operator for the heat equation 188
+16.6 Singular integral operators, pseudodifferential operators and Fourier integral operators 190
+17. Banach Algebras and their Elementary Spectral Theory 192
+17.1 Normed algebras 192
+Invertible elements—Resolvent set and spectrum—Resolvent— Spectral radius
+17.2. Functional calculus 197
+Spectral mapping theorem—Projections
+18. Gelfand’s Theory of Commutative Banach Algebras 202
+Homomorphisms into C—Maximal ideals—Mazur’s lemma—
+The spectrum as the range of homomorphisms—The spectral mapping theorem revisited—The Gelfand representation—
+mapping theorem revisited—The Gelfand representation— Gelfand topology
+19. Applications of Gelfand’s Theory of Commutative Banach Algebras 210
+19.1 The algebra C(S) 210
+19.2 Gelfand compactification 210
+19.3. Absolutely convergent Fourier series 212
+19.4 Analytic functions in the closed unit disk 213
+Analytic functions in the closed polydisk
+19.5 Analytic functions in the open unit disk 214
+19.6 Wiener’s Tauberian theorem 215
+19.7 Commutative B*-algebras 221
+Historical note, 224
+20. Examples of Operators and Their Spectra 226
+20.1 Invertible maps 226
+Boundary points of the spectrum
+20.2 Shifts, 229
+20.3 Volterra integral operators 230
+20.4 The Fourier transform 231
+21. Compact Maps 233
+21.1 Basic properties of compact maps 233
+Compact maps form a two-sided ideal—Identity plus compact map has index zero
+21.2 The spectral theory of compact maps 238
+The transpose of a compact operator is compact—The Fredholm alternative
+Historical note, 244
+22. Examples of Compact Operators 245
+22.1 Compactness criteria 245
+Arzela-Ascoli compactness criterion—Rellich compactness
+criterion
+22.2 Integral operators 246
+Hilbert-Schmidt operators
+22.3. The inverse of elliptic partial differential operators 249
+22.4 Operators defined by parabolic equations 250
+22.5 Almost orthogonal bases 251
+23. Positive compact operators 253
+23.1 The spectrum of compact positive operators 253
+23.2 Stochastic integral operators 256
+Invariant probability density
+23.3 Inverse of a second order elliptic operator 258
+24. Fredholm’s Theory of Integral Equations 260
+24.1 The Fredholm determinant and the Fredholm resolvent 260
+The spectrum of Fredholm operators—A trace formula for Fredholm operators
+24.2 The multiplicative property of the Fredholm determinant 268
+24.3. The Gelfand-Levitan-Marchenko equation and Dyson’s formula 271
+25. Invariant Subspaces 275
+25.1 Invariant subspaces of compact maps 275
+The von Neumann-Aronszajn-Smith theorem
+25.2 Nested invariant subspaces 277
+Ringrose’s theorem—Unicellular operators: the
+Brodsky-Donoghue theorem—The Robinson-Bernstein and
+Lomonsov theorems—Enflo’s example
+26. Harmonic Analysis on a Halfline 284
+26.1 The Phragmén-Lindeléf principle for harmonic functions 284
+26.2. An abstract Pragmén-Lindeléf principle 285
+Interior compactness
+26.3 Asymptotic expansion 297
+Solutions of elliptic differential equations in a half-cylinder
+27. Index Theory 300
+27.1 The Noether index 301
+Pseudoinverse—Stability of index—Product formula—
+Hérmander’s stability theorem
+Historical note, 305
+27.2 Toeplitz operators 305
+Index-winding number—The inversion of Toeplitz operators—
+Discontinuous symbols—Matrix Toeplitz operators
+27.3 Hankel operators 312
+28. Compact Symmetric Operators in Hilbert Space 315
+Variational principle for eigenvalues—Completeness of
+eigenfunctions—The variational principles of Fisher and
+Courant—Functional calculus—Spectral theory of compact
+normal operators—Unitary operators
+29. Examples of Compact Symmetric Operators 323
+29.1 Convolution, 323
+29.2 The inverse of a differential operator 326
+29.3 The inverse of partial differential operators 327
+30. Trace Class and Trace Formula 329
+30.1 Polar decomposition and singular values 329
+30.2 Trace class, trace norm, and trace 330
+Matrix trace
+30.3 The trace formula 334
+Weyl’s inequalities—Lidskii’s theorem
+30.4 The determinant 341
+30.5 Examples and counterexamples of trace class operators 342
+Mercer’s theorem—The trace of integral operators—A Volterra
+integral operator—The trace of the powers of an operator
+30.6 The Poisson summation formula 348
+Convolution on S! and the convergence of Fourier series—The Selberg trace formula
+30.7 How to express the index of an operator as a difference of traces 349
+30.8 The Hilbert-Schmidt class 352
+Relation of Hilbert-Schmidt class and trace class
+30.9 Determinant and trace for operator in Banach spaces 353
+31. Spectral Theory of Symmetric, Normal, and Unitary Operators 354
+31.1 The spectrum of symmetric operators 356
+Reality of spectrum—Upper and lower bounds for the spectrum—Spectral radius
+31.2 Functional calculus for symmetric operators 358
+The square root of a positive operator—Polar decomposition of bounded operators
+31.3 Spectral resolution of symmetric operators 361
+Projection-valued measures
+31.4 Absolutely continuous, singular, and point spectra 364
+31.5 The spectral representation of symmetric operators 364
+Spectral multiplicity—Unitary equivalence
+31.6 Spectral resolution of normal operators 370
+Functional calculus—Commutative B*-algebras
+31.7 Spectral resolution of unitary operators 372
+Historical note, 375
+32. Spectral Theory of Self-Adjoint Operators 377
+The Hellinger-Toeplitz theorem—Definition of self-adjointness—Domain
+32.1 Spectral resolution 378
+Sharpening of Herglotz’s theorem—Cauchy transform of measures—The spectrum of a self-adjoint operator—
+Representation of the resolvent as a Cauchy transform— Projection-valued measures
+32.2 Spectral resolution using the Cayley transform 389
+32.3 A functional calculus for self-adjoint operators 390
+33. Examples of Self-Adjoint Operators 394
+33.1 The extension of unbounded symmetric operators 394
+Closure of a symmetric operator
+33.2 Examples of the extension of symmetric operators; deficiency indices 397
+The operator i(d/dx) on C}(R), Ch(R), and C}(0, 1)—
+Deficiency indices and von Neumann’s theorem—Symmetric operators in a real Hilbert space
+33.3 The Friedrichs extension 402
+Semibounded symmetric operators—Symmetric ODE—
+Symmetric elliptic PDE
+33.4 The Rellich perturbation theorem 406
+Self-adjointness of Schrédinger operators with singular
+potentials
+33.5 The moment problem 410
+The Hamburger and Stieltjes moment problems—Uniqueness, or
+not, of the moment problem
+Historical note, 414
+34. Semigroups of Operators 416
+34.1 Strongly continuous one-parameter semigroups 418
+Infinitesimal generator—Resolvent—Laplace transform
+34.2 The generation of semigroups 424
+The Hille-Yosida theorem
+34.3 The approximation of semigroups 427
+The Lax equivalence theorem—Trotter’s product formula— Strang’s product formula
+34.4 Perturbation of semigroups 432
+Lumer-Phillip’s theorem—Trotter’s perturbation theorem
+34.5 The spectral theory of semigroups 434
+Phillip’s spectral mapping theorem—Adjoint semigroups—
+Semigroups of eventually compact operators
+35. Groups of Unitary Operators 440
+35.1 Stone’s theorem 440
+Generation of unitary groups—Positive definiteness and
+Bochner’s theorem
+35.2 Ergodic theory 443
+von Neumann’s mean ergodic theorem
+35.3. The Koopman group 445
+Volume-preserving flows—Metric transitivity—Time
+average—Space average
+35.4 The wave equation 447
+In full space-time—In the exterior of an obstacle
+35.5 Translation representation 448
+Sinai’s theorem—Incoming subspaces—Solution of wave
+equation in odd number of space dimensions—Wave propagation outside an obstacle
+35.6 The Heisenberg commutation relation 455
+The uncertainty principle—Weyl’s form of the commutation relation—von Neumman’s theorem on pairs of operators that
+satisfy the commutation relation
+Historical note, 459
+36. Examples of Strongly Continuous Semigroups 461
+36.1 Semigroups defined by parabolic equations 461
+36.2 Semigroups defined by elliptic equations 462
+36.3 Exponential decay of semigroups 465
+36.4 The Lax-Phillips semigroup 470
+36.5 The wave equation in the exterior of an obstacle 472
+37. Scattering Theory 477
+37.1 Perturbation theory 477
+37.2 The wave operators 480
+37.3 Existence of the wave operators 482
+37.4 The invariance of wave operators 490
+37.5 Potential scattering 490
+37.6 The scattering operator 491
+Historical note, 492
+37.7 The Lax-Phillips scattering theory 493
+37.8 The zeros of the scattering matrix 499
+37.9 The automorphic wave equation 500
+Faddeev and Pavlor’s theory—The Riemann hypothesis
+38. A Theorem of Beurling 513
+38.1 The Hardy space 513
+38.2 Beurling’s theorem 515
+Inner and outer factors—Factorization in the algebra of bounded analytic functions
+38.3 The Titchmarsh convolution theorem 523
+Historical note, 525
+Texts 527
+A. Riesz-Kakutani representation theorem 529
+A.1 Positive linear functionals 529
+A.2_ Volume, 532
+A.3 L asa space of functions 535
+A.4 Measurable sets and measure 538
+A.S_ The Lebesgue measure and integral 541
+B. Theory of distributions 543
+B.1 Definitions and examples 543
+B.2 Operations on distributions 544
+B.3__ Local properties of distributions 547
+B.4_ Applications to partial differential equations 554
+B.S The Fourier transform 558
+B.6 Applications of the Fourier transform 568
+B.7 Fourier series 569
+C. Zorn’s Lemma 571
+Author Index 573
+Subject Index 577

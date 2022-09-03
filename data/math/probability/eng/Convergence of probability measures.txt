@@ -1,0 +1,61 @@
+CONTENTS
+Introduction 1
+Chapter 1. Weak Convergence in Metric Spaces 7
+Section 1. Measures on Metric Spaces, 7
+Measures and Integrals. Tightness. Some Examples. Problems.
+Section 2. Properties of Weak Convergence, 14
+The Portmanteau Theorem. Other Criteria. The Mapping Theorem. Product Spaces. Problems.
+Section 3. Convergence in Distribution, 24
+Random Elements. Convergence in Distribution. Convergence in Probability. Local vs. Integral Laws. Integration to the Limit.
+Relative measure.* Three Lemmas.* Problems.
+Section 4. Long Cycles and Large Divisors,* 38
+Long Cycles. The Space A. The Poisson-Dirichlet Distribu-
+tion. Size-Biased Sampling. Large Prime Divisors. Technical Arguments. Problems.
+Section 5. Prohorov’s Theorem, 57
+Relative Compactness. Tightness. The Proof. Problems.
+Section 6. A Miscellany,* 65
+The Ball o-Field. Skorohod’s Representation Theorem. The Prohorov Metric. A Coupling Theorem. Problems.
+Chapter 2. The Space C 80
+Section 7. Weak Convergence and Tightness in C, 80
+* Starred topics can be omitted on a first reading
+Tightness and Compactness in C. Random Functions. Coordinate Variables, Problems.
+Section 8. Wiener Measure and Donsker’s Theorem, 86
+Wiener Measure. Construction of Wiener Measure. Donsker’s
+Theorem. An Application. The Brownian Bridge. Problems.
+Section 9. Functions of Brownian Motion Paths, 94
+Mazimum and Minimum. The Are Sine Law. The Brownian Bridge. Problems.
+Section 10. Maximal Inequalities, 105
+Mazima of Partial Sums. A More General Inequality. A Further Inequality. Problems.
+Section 11. Trigonometric Series,* 113
+Lacunary Series. Incommensurable Arguments. Problem.
+Chapter 3. The Space D 121
+Section 12. The Geometry of D, 121
+The Definition. The Skorohod Topology. Separability and Com- pleteness of D. Compactness in D. A Second Characterization
+of Compactness. Finite-Dimensional Sets. Random Functions in D. The Poisson Limit.* Problems.
+Section 13, Weak Convergence and Tightness in D, 138
+Finite-Dimensional Distributions. Tightness. A Criterion for Convergence. A Criterion for Existence.* Problem.
+Section 14. Applications, 146
+Donsker’s Theorem Again. An Extension. Dominated Measures. Empirical Distribution Functions. Random Change of Time. Renewal Theory. Problems.
+Section 15. Uniform Topologies,* 156
+The Uniform Metric on D[0,1]. A Theorem of Dudley’s. Empirical Processes Indexed by Convex Sets.
+Section 16. The Space D[0, 00), 166
+Definitions. Properties of the Metric. Separability and Com- pleteness. Compactness. Finite-Dimensional Sets. Weak Convergence. Tightness. Aldous’s Tightness Criterion.
+Chapter 4. Dependent Variables 180
+Section 17. More on Prime Divisors,* 180
+Introduction. A General Limit Theorem. The Brownian Mo- tion Limit. The Poisson-Process Limit.
+Section 18. Martingales, 193
+Triangular Arrays. Ergodic Martingale Differences.
+Section 19. Ergodic Processes, 196
+The Basic Theorem. Uniform Mixing. Functions of Mixing Processes. Diophantine Approximation.
+Chapter 5. Other Modes of Convergence 207
+Section 20. Convergence in Probability, 207
+A Convergence-in-Probability Version of Donsker’s Theorem.
+Section 21. Approximation by Independent Normal Sequences, 211
+Section 22. Strassen’s Theorem, 220
+The Theorem. Preliminaries on Brownian Motion. Proof of Strassen’s Theorem. Applications.
+Appendix M 236
+Metric Spaces. Analysis. Convexity. Probability.
+Some Notes on the Problems 264
+Bibliographical Notes 267
+Bibliography 270
+Index 275

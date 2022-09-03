@@ -1,0 +1,41 @@
+Contents
+Preface vii
+Introduction xi
+Chapter 1 Preliminary Results on Functional Analysis 1
+1.1 Preliminary notions and results 1
+1.2 Closedness and interiority notions 9
+1.3 Open mapping theorems 19
+1.4 Variational principles 29
+1.5 Exercises 84
+1.6 Bibliographical notes 86
+Chapter 2. Convex Analysis in Locally Convex Spaces 39
+2.1 Convex functions 89
+2.2 Semi-continuity of convex functions 60
+2.3 Conjugate functions 75
+2.4 The subdifferential of a convex function 79
+2.5 The general problem of convex programming 99
+2.6. sberturbed problems 106
+2.7 The fundamental duality formula 118
+2.8 Formulas for conjugates and ¢-subdifferentials, duality relations and optimality conditions 121
+2.9 Convex optimization with constraints 136
+2.10 A minimax theorem 143
+2.11 Exercises 146
+2.12 Bibliographical notes 155
+Chapter 3 Some Results and Applications of Convex Analy- sis in Normed Spaces 159
+3.1 Further fundamental results in convex analysis 159
+3.2 Convexity and monotonicity of subdifferentials 169
+3.3 Some classes of functions of a real variable and differentiability of convex functions 188
+3.4 Well conditioned functions 105
+3.5 Uniformly convex and uniformly smooth convex functions 203
+3.6 Uniformly convex and uniformly smooth convex functions on bounded sets 221
+3.7 Applications to the geometry of normed spaces 226
+3.8 Applications to the best approximation problem 237
+3.9 Characterizations of convexity in terms of smoothness 243
+3.10 Weak sharp minima, well-behaved functions and global error boundsitor convex inequalities 248
+3.11 Monotone multifunctions 269
+3.12 Exercises 288
+3.13 Bibliographical notes 292
+Exercises — Solutions 297
+Bibliography 349
+Index 359
+Symbols and Notations 363

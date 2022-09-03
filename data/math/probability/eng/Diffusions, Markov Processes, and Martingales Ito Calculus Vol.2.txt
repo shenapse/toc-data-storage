@@ -1,0 +1,200 @@
+Contents
+Some Frequently Used Notation xiv
+CHAPTER IV. INTRODUCTION TO ITO CALCULUS
+TERMINOLOGY AND CONVENTIONS
+R-processes and L-processes
+Usual conditions, etc
+Important convention about time 0
+1. SOME MOTIVATING REMARKS
+1. Ito integrals. 2 2
+2. Integration by parts 4
+3. It6’s formula for Brownian motion 8
+4. A rough plan of the chapter 9
+2. SOME FUNDAMENTAL IDEAS: PREVISIBLE PROCESSES LOCALIZATION, etc
+Previsible processes
+5. Basic integrands Z(S,T] 10
+6. Previsible processes on (0, 00)
+Finite-variation and integrable-variation processes
+7. FV0 and IV0 processes 14
+8. Preservation of the martingale property 14
+Localization
+9. H[O,T]X^T 15
+10. Localization of integrands, IbF 16
+11. Localization of integrators, M0loc, FV M0loc etc 17
+12. Nil desperandum! 18
+13. Extending stochastic integrals by localization 20
+14. Local martingales 21
+Semimartingales as integrators
+15. Semimartingales 23
+16. Integrators 24
+Likelihood ratios
+17. Martingale property under change of measure 25
+3. THE ELEMENTARY THEORY OF FINITE-VARIATION PROCESSES
+18. It6’s formula for FV functions 87
+19. The Doléans exponential 29
+Applications to Markov chains with finite state-space
+20. Martingale problems 30
+21. Probabilistic interpretation of Q 33
+22. Likelihood ratios and some key distributions 37
+4. STOCHASTIC INTEGRALS: THE L? THEORY
+23. Orientation 42
+24. Stable spaces of M0^2, cM0^2, dM0^2 42
+25. Elementary stochastic integrals relative to M in M0^2 45
+26. The processes[M]and[M,N] 46
+27. Constructing stochastic integrals in L^2 47
+28. The Kunita-Watanabe inequalities 50
+5. STOCHASTIC INTEGRALS WITH RESPECT TO CONTINUOUS SEMIMARTINGALES
+29. Orientation. 52
+30. Quadratic variation for continuous local martingales 52
+31. Canonical decomposition of a continuous semimartingale 57
+32. It6’s formula for continuous semimartingales 58
+6. APPLICATIONS OF ITO’S FORMULA
+33. Lévy’s theorem 63
+34. Continuous local martingales as time-changes of Brownian motion 64
+35. Bessel processes; skew products; etc 69
+36. Brownian martingale representation 73
+37. Exponential semimartingales; estimates 75
+38. Cameron-Martin-Girsanov change of measure 79
+39. First applications: Doob h-transforms; hitting of spheres; etc 83
+40. Further applications: bridges; excursions; etc 86
+41. Explicit Brownian martingale representation 89
+42. Burkholder-Davis-Gundy inequalities 93
+43. Semimartingale local time; Tanaka’s formula 95
+44. Study of joint continuity 99
+45. Local time as an occupation density; generalized It6-Tanaka formula 102
+46. The Stratonovich calculus 106
+47. Riemann-sum approximation to It6é and Stratonovich integrals; simulation 108
+CHAPTER V. STOCHASTIC DIFFERENTIAL EQUATIONS AND
+DIFFUSIONS
+1. INTRODUCTION
+1. What is a diffusion in R^n?
+2. FD diffusions recalled
+3. SDEs as a means of constructing diffusions 113
+4. Example: Brownian motion ona surface
+5. Examples: modelling noise in physical systems 114
+6. Example: Skorokhod’s equation
+7. Examples: control problems 9
+2. PATHWISE UNIQUENESS, STRONG SDEs, AND FLOWS
+8. Our general SDE; previsible path functionals; diffusion SDEs 122
+9. Pathwise uniqueness; exact SDEs 124
+10. Relationship between exact SDEs and strong solutions 125
+11. The Ito's existence and uniqueness result 128
+12. Locally Lipschitz SDEs; Lipschitz properties of a^(1/2)? 132
+13. Flows; the diffeomorphism theorem; time-reversed flows 136
+14. Carverhill’s noisy North-South flow on a circle 141
+15. The martingale optimality principle in control 144
+3. WEAK SOLUTIONS, UNIQUENESS IN LAW
+16. Weak solutions of SDEs; Tanaka’s SDE 149
+17. ‘Exact equals weak plus pathwise unique’ rns ©) |
+18. Tsirel’son’s example
+4. MARTINGALE PROBLEMS, MARKOV PROPERTY
+19. Definition; orientation
+20. Equivalence of the martingale-problem and ‘weak’ formulations 160
+21. Martingale problems and the strong Markov property 162
+22. Appraisal and consolidation: where we have reached 163
+23. Existence of solutions to the martingale problem 166
+24. The Stroock-Varadhan uniqueness theorem 170
+25. Martingale representation 173
+Transformation of SDEs
+26. Change of time scale, Girsanovs SDE 175
+27. Change of measure
+28. Change of state-space; scale; Zvonkin’s observation; the Doss— Sussmann method 188
+29. Krylov's example 181
+5. OVERTURE TO STOCHASTIC DIFFERENTIAL GEOMETRY
+30. Introduction; some key ideas; Stratonovich-to-Ito conversion 182
+31. Brownian motion ona submanifold of R^N 186
+32. Parallel displacement; Riemannian connections 193
+33. Extrinsic theory of BM®*"(O(2)); rolling without slipping; martingales on manifolds; etc 198
+34. Intrinsic theory; normal coordinates; structural equations; diffusions on manifolds;ete(!) 203
+35. Brownian motion on Lie groups 224
+36. Dynkin’s Brownian motion of ellipses; hyperbolic space interpretation 289
+37. Khasminskii’s method for studying stability; random vibrations 246
+38. Hérmander’s theorem; Malliavin calculus; stochastic pullback; curvature 250
+6. ONE-DIMENSIONAL SDEs
+39. A local-time criterion for pathwise uniqueness 263
+40. The Yamada—Watanabe pathwise uniqueness theorem. : 265
+41. The Nakao pathwise-uniqueness theorem 266
+42. Solution of a variance control problem 267
+43. A comparison theorem 269
+7. ONE-DIMENSIONAL DIFFUSIONS
+44. Orientation 270
+45. Regular diffusions
+46. The scale function, s 278
+47. The speed measure, m; time substitution 276
+48. Example: the Bessel SDE 284
+49. Diffusion local time 289
+50. Analytical aspects 9
+51. Classification of boundary points 295
+52. Khasminskii’s test forexplosion 297
+53. An ergodic theorem for 1-dimensional diffusions 300
+54. Coupling of 1-dimensional diffusions 301
+CHAPTER VI. THE GENERAL THEORY
+1. ORIENTATION
+1. Preparatory remarks 304
+2. Lévy processes 308
+2. DEBUT AND SECTION THEOREMS
+3. Progressive processes
+4. Optional processes, 7; optional times 315
+5. The ‘optional’ section theorem
+6. Warning (not to be skipped) 318
+3. OPTIONAL PROJECTIONS AND FILTERING
+7. Optional projection®X of X
+8. The innovations approach to filtering 322
+9. The Kalman-Bucy filter 827
+10. The Bayesian approach to filtering; a change-detection filter 329
+11. Robust filtering 88
+4. CHARACTERIZING PREVISIBLE TIMES
+12. Previsible stopping times, PFA theorem 332
+13. Totally inaccessible and accessible stopping times 334
+14. Some examples 836
+15. Meyer's previsibility theorem for Markov processes 338
+16. Proof of the PFA theorem 340
+17. The o-algebras 348
+18. Quasi-left-continuous filtrations 346
+5. DUAL PREVISIBLE PROJECTIONS
+19. The previsible section theorem; the previsible projection °X
+20. Doléans’ characterization of FV processes 349
+21. Dual previsible projections, compensators 350
+22. Cumulative risk 2 2 1 6 1 852
+23. Some Brownian motion examples 354
+24. Decomposition of a continuous semimartingal 358
+25. Proof of the basic (u, A) correspondenc 359
+26. Proof of the Doléans ‘optional’ characterization result 360
+27. Proof of the Doléans ‘previsible’ characterization result 361
+28. Lévy systems for Markov processes 364
+6. THE MEYER DECOMPOSITION THEOREM
+29. Introduction 867
+30. The Doléans proof of the Meyer decomposition 369
+31. Regular class (D) submartingales; approximation to compensators 372
+32. The local form of the decomposition theorem 374
+33. An L? bounded local martingale which is not a martingal 375
+34. The <M) process 876
+35. Last exits and equilibrium charge 377
+7. STOCHASTIC INTEGRATION: THE GENERAL CASE
+36. The quadratic variation process[M] 382
+37. Stochastic integrals with respect to local martingales 388
+38. Stochastic integrals with respect to semimartingales 391
+39. It6’s formula for semimartingales 394
+40. Special semimartingales 394
+41. Quasimartingales 396
+8. ITO EXCURSION THEORY
+42. Introduction 398
+43. Excursion theory for a finite Markov chain 400
+44. Taking stock 405
+45. Local time L at a regular extremal point a 406
+46. Some technical points: hypothéses droites,etc 410
+47. The Poisson point process of excursions 413
+48. Markovian character ofn 416
+49. Marking the excursions
+50. Last-exit decomposition; calculation of the excursion lawn 420
+51. The Skorokhod embedding theorem 425
+52. Diffusion properties of local time in the space variable; the Ray-Knight theorem 428
+53. Arcsine law for Brownian motion 431
+54. Resolvent density of a 1-dimensional diffusion 432
+55. Path decomposition of Brownian motions and of excursions 433
+56. An illustrative calculation 438
+57. Feller Brownian motions 439
+58. Example: censoring and reweighting of excursion laws 442
+59. Excursion theory by stochastic calculus: Mc Gill’s lemma 445
+REFERENCES 449
+INDEX 469
