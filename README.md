@@ -4,7 +4,7 @@ A storage for table of contents of books.
 
 In order to avoid copyright infringement, I try to ensure that the scope of quotations comply with the law and social conventions (In Japanese copyright law practice, the table of contents of almost all books is interpreted as not subject to copyright). Please let me know if there are any problems.
 
-Pull requests and any suggestion of improvement are welcome.
+Pull requests and any suggestions for improvement are also welcome.
 
 ## Directory structure
 
