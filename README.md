@@ -2,7 +2,7 @@
 
 A storage for table of contents of books.
 
-In order to avoid copyright infringement, I try to ensure that the scope of quotations comply with the law and social conventions (In Japanese copyright law practice, the table of contents of almost all books is interpreted as not subject to copyright). Please let me know if there are any problems.
+In order to avoid copyright infringement, I try to ensure that the scope of quotations comply with the law and social conventions (Japanese copyright law practice interprets the table of contents of almost all books as exempt from copyright). Please let me know if there are any problems.
 
 Pull requests and any suggestions for improvement are also welcome.
 
@@ -57,7 +57,9 @@ The file name should be detailed enough to easily identify the book.
 
 - **Only the table of contents should be listed.**
 - One line represents one headline
-- page numbers are not required, but would be nice to have
+- Page numbers are nice to have
+- Elements should be separated by single space
+- No indentation
 
 ```txt
 # sample
