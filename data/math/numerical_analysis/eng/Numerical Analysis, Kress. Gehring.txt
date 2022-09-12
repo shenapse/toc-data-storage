@@ -1,0 +1,75 @@
+1 Introduction 1
+2 Linear Systems 5
+21 Examples for Systems of Equations 6
+22 Gaussian Elimination 11
+23 LR Decomposition 18
+24 QR Decomposition 19
+Problems 23
+3 Basic Functional Analysis 25
+31 Normed Spaces 26
+32 Scalar Products 29
+33 Bounded Linear Operators 32
+34 Matrix Norms 34
+35 Completeness 40
+36 The Banach Fixed Point Theorem 43
+37 Best Approximation 47
+Problems 49
+4 Iterative Methods for Linear Systems 53
+41 Jacobi and Gauss-Seidel Iterations 53
+42 Relaxation Methods 60
+43 Two-Grid Methods 68
+Problems 75
+5 Ill-Conditioned Linear Systems 77
+51 Condition Number 78
+52 Singular Value Decomposition 81
+53 Tikhonov Regularization 86
+Problems 90
+6 Iterative Methods for Nonlinear Systems 93
+61 Successive Approximations 94
+62 Newton’s Method 101
+63 Zeros of Polynomials 110
+64 Least Squares Problems 114
+Problems 117
+7 Matrix Eigenvalue Problems 119
+71 Examples 120
+72 Estimates for the Eigenvalues 122
+73 The Jacobi Method 126
+74 The QR Algorithm 133
+75 Hessenberg Matrices 144
+Problems 149
+8 Interpolation 151
+81 Polynomial Interpolation 152
+82 Trigonometric Interpolation 161
+83 Spline Interpolation 169
+84 Bézier Polynomials 179
+Problems 186
+9 Numerical Integration 189
+91 Interpolatory Quadratures 190
+92 Convergence of Quadrature Formulae 198
+93 Gaussian Quadrature Formulae 200
+94 Quadrature of Periodic Functions 207
+95 Romberg Integration 212
+96 Improper Integrals 217
+Problems 221
+10 Initial Value Problems 225
+101 The Picard—Lindeléf Theorem 226
+102 Euler’s Method 231
+103 Single-Step Methods 234
+104 Multistep Methods 248
+Problems 254
+11 Boundary Value Problems 257
+111 Shooting Methods 258
+112 Finite Difference Methods 262
+113 The Riesz and Lax-Milgram Theorems 268
+114 Weak Solutions 274
+115 The Finite Element Method 279
+Problems 283
+12 Integral Equations 287
+121 The Riesz Theory 288
+122 Operator Approximations 291
+123 Nystrém’s Method 296
+124 The Collocation Method 302
+125 Stability 310
+Problems 313
+References 317
+Index 322
